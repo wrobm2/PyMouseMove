@@ -1,0 +1,14 @@
+{
+    "directions": {
+      "k": [0, -1],
+      "j": [0, 1],
+      "h": [-1, 0],
+      "l": [1, 0]
+    },
+    "reset_key": "r",
+    "up_key": "t",
+    "down_key": "g",
+    "left_click_key": "y",
+    "right_click_key": "h"
+  }
+  

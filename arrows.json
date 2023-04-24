@@ -1,0 +1,14 @@
+{
+    "directions": {
+      "up": [0, -1],
+      "down": [0, 1],
+      "left": [-1, 0],
+      "right": [1, 0]
+    },
+    "reset_key": "/",
+    "up_key": ".",
+    "down_key": ",",
+    "left_click_key": "right ctrl",
+    "right_click_key": "right shift"
+  }
+  
