@@ -4,7 +4,7 @@ This is a fairly basic python program ive made in free time, purely because i wa
 
 You may use it how you please, i do not care, but also will not be held liable. 
 
-You can install it one of two ways
+You can install it one of three ways
 
 # 1. Installing via releases
     Steps:
@@ -25,3 +25,11 @@ You can install it one of two ways
         6. type python .\mousemove.py 
             ( you can alternatively just type python mous and then hit tab )
         7. rejoice
+
+
+# Download from dist folder
+    Steps:
+        1. Click dist folder
+        2. download the json file
+        3. download pymousemove.exe
+        ( you can use other configs but i am sending ijkl as its the best option im aware of )
